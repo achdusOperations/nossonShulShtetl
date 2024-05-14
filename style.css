@@ -222,7 +222,7 @@ color:#FFF;
     
     }
     /*payment information boxes*/
-    donate-section .fs-payment-method .radio-inline input:checked+span{
+    .fs-full-donate-form .fs-donate-body .fs-donate-section .fs-payment-method .radio-inline span {
         border:1px solid #3B244D;
     }
     /*donor tag*/

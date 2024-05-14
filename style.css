@@ -211,7 +211,7 @@ color:#FFF;
     color:#3B244D;
     }
     /*amount boxes*/
-    .fs-full-donate-form .fs-donate-body .fs-donate-section h3{
+    .fs-full-donate-form .fs-donate-body .fs-donation-options .fs-donation-option span.fs-option-name>*{
         background-color: #40DFAF;
         color:#3B244D
     }

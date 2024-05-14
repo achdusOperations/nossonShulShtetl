@@ -170,6 +170,10 @@ color:#FFF;
     a.btn.fs-btn.js-action-open-donate{
         background: #FFF;
     }
+    a.btn.fs-btn.js-action-open-donate:hover{
+    background: #3B244D;
+    color: #FFF;
+    }
 
     
     

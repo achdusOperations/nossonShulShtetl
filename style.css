@@ -142,7 +142,7 @@ color:#FFF;
     }
     /*text*/
     
-    h3.fs-countdown-message,  .fs-countdown .fs-countdown-widget .fs-countdown-unit .fs-countdown-description {
+    h3.fs-countdown-message,  .fs-countdown .fs-countdown-widget .fs-countdown-unit .fs-countdown-description, .fs-countdown h3 strong {
         color: #3B244D!important;
     }
 

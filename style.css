@@ -1,0 +1,238 @@
+/* dark purple #3B244D */
+/* light green #40DFAF */
+
+/*logo*/
+/*img.fs-logo{
+    content: 
+    url("https://www.chabadone.org/media/images/1255/YPWI12559664.png");
+    background-size:100% 100%;
+    } 
+    /*lines around logo and space*/
+    /*.fs-logo-container .fs-bottom-triangle-border polygon {
+        fill:#F8A147;
+    }
+    .fs-header-top .fs-logo-container {
+    border: 4px solid #F8A147;
+    border-top:0;
+    background:#F8A147;
+    }
+    .fs-header-top {
+        border-bottom: 4px solid #F8A147;
+    background:#F8A147;
+    }
+    
+    .fs-logo-container .fs-bottom-triangle  polygon{
+    fill:#F8A147;
+    }
+    .fs-header-top .fs-logo-container:after, .fs-header-top .fs-logo-container:before {
+    background:#F8A147;
+    }
+
+    /*section next to countdown*/
+    /*.fs-donate {
+        background:#F8A147
+    }
+    
+    body > div.fs-root > div > div.fs-campaign-info > div > div > div.col-md-6.fs-donate.fs-donatable.text-center.vertical-align.d-js-viewport-in > div.fs-left-border-triangle > svg > polygon{
+        fill:#F8A147
+    }
+    
+    div.fs-top-border-triangle > svg > polygon, div.fs-left-border-triangle > svg > polygon{
+        fill:#F8A147
+    }
+    
+    /*dollar sign*/
+    /*.fs-donate .fs-donate-amounts {
+        color:#951903
+    }
+    /*matchers*/
+
+    /*circle*/
+    /*.fs-matchers .fs-matcher .fs-matcher-image .fs-image-wrap-ratio::after{
+        box-shadow: inset 0 0 0 2px #F8A147;
+    }
+    /*maximize...*/
+    /*div.container-fluid.fs-matchers > div > h3 > span{
+        font-weight:bold;
+    }
+    /*tier*/
+   /* .fs-matchers .fs-matcher .fs-matcher-title {
+        color:#F8A147;
+    }
+    /*details*/
+   /* .fs-matchers .fs-matcher .fs-matcher-subtitle {
+        color:#951903;
+        font-weight:bold;
+    }
+      /*donors names on separate lines. width is 100% divided by amount of matching categories*/
+     /* .fs-matchers .fs-matcher  {
+    margin-right:0px;
+    margin-left:0px;
+    width:50%;
+  }
+  @media (max-width: 991px){
+    .fs-matchers .fs-matcher{
+      width:100%;
+    }
+  }
+    /*background*/
+   /* .fs-matchers{
+        background: #FFF;
+    }
+    /*every ¤...*/
+    /*.fs-matchers .fs-matchers-intro strong{
+        color:#F8A147
+    }
+
+/*hero image*/
+
+.fs-header:before {
+    background-image: 
+   url("https://nossonsshul.com/media/images/1277/XNOJ12774632.png");
+   background-size:100% 100%;
+   }
+   @media screen and (max-width: 700px) {
+   .fs-header:before {
+    background-image: 
+   url("https://nossonsshul.com/media/images/1277/yhBv12774634.png");
+   background-size:100% 100%;
+   }
+   }
+   
+   
+   
+   /*boruch hashem*/
+   #BaruchHashem.baruch_hashem {
+    color:#3B244D;
+   }
+   /*social buttons*/
+   a.a2a_button_facebook, a.a2a_button_twitter, a.a2a_button_email, a.a2a_dd{
+    background-color: #3B244D;
+   }
+   /*nossons shul*/
+   small.js-viewport-in.a-delay-100ms{
+    color:#3B244D;
+   }
+ 
+/*big titles*/
+.a-delay-200ms, body .fs-root h3 , .fs-partners h3, body > div.fs-root > div > div.container.fs-about-partners-container > div > div.col-md-8.fs-about.js-about.fs-about-main-body > div > h3{
+    color:#40DFAF;
+}
+
+/*small titles*/
+.fs-header .page-header h2 , .fs-about h4, .fs-header .page-header h1 small{
+    color:#3B244D;
+}
+
+/*donate now and about campaign */
+.donate-button .donate-button-text {
+    background:#40DFAF;
+  border-radius: 25px !important;
+  color:#3B244D;
+  }
+  .donate-button .donate-button-text:hover{
+    background: #3B244D;
+    color: #FFF;
+  }
+
+  /*goal section*/
+  .jumbotron.fs-header {
+    border-bottom: 4px solid #3B244D;
+}
+.fs-goal{
+background:#3B244D ;
+}
+.fs-goal .fs-goal-text strong , .fs-goal .fs-goal-graph-container .fs-goal-graph-text{
+color:#FFF;
+}
+.fs-goal .fs-goal-graph-container .fs-goal-graph .fs-goal-graph-fill{
+    background:#40DFAF;
+}
+
+/*countdown*/
+.fs-countdown {
+    background:#40DFAF;
+    }
+    body > div.fs-root > div > div.fs-campaign-info > div > div > div.col-md-6.fs-countdown.text-center.d-js-viewport-in > h3,.fs-footer .row>div:nth-of-type(1) h3, .fs-countdown .fs-countdown-widget .fs-countdown-unit .fs-countdown-description, .fs-countdown .fs-countdown-widget .fs-countdown-sep{
+    color:#FFF;
+    }
+    /*maximize in countdown*/
+    .fs-countdown h3 strong {
+        color:#3B244D
+    }
+    /*left until...*/
+    h3.fs-countdown-message {
+        color: #3B244D!important;
+    }
+
+
+    
+    
+
+    /*donor listing*/
+   /*top line*/
+   .fs-partners>div{
+    border-top:6px solid #40DFAF;
+    }
+    /*"our donors"*/
+   .text-center h3, .fs-partners h3 span {
+    color:#3B244D;
+    }
+     /*"view all donors / be the first"*/
+   .fs-btn{
+    background:#40DFAF;
+    border-radius: 25px !important;
+    color: #3B244D;
+    }
+    .fs-btn:hover{
+        background: #3B244D;
+        color: #FFF;
+    }
+
+    /*read more*/
+    .fs-about-text .fs-btn-read-more{
+        background:#3B244D;
+        color:#FFF;
+    }
+
+
+    /*footer*/
+   .fs-footer {
+    background: #3B244D;
+    border-top: 1px solid #3B244D;
+}
+.fs-footer .row>div:nth-of-type(1) h3, .fs-footer .row>div:nth-of-type(2) h3 , address {
+    color:#FFF;
+    }
+
+     /*donate page*/
+        /*titles*/
+   .fs-full-donate-form .fs-donate-body .fs-donate-section h3{
+    color:#3B244D;
+    }
+    /*amount boxes*/
+    .fs-full-donate-form .fs-donate-body .fs-donate-section h3{
+        background-color: #40DFAF;
+        color:#3B244D
+    }
+    /*amount boxes when selected*/
+    .fs-full-donate-form .fs-donate-body .fs-donation-options .fs-donation-option.fs-other label.selected, .fs-full-donate-form .fs-donate-body .fs-donation-options .fs-donation-option.selected .fs-option-name>div {
+        background:#3B244D;
+        color:#FFF
+    
+    }
+    /*payment information boxes*/
+    donate-section .fs-payment-method .radio-inline input:checked+span{
+        border:1px solid #3B244D;
+    }
+    /*donor tag*/
+.fs-partners .fs-partner-container .fs-partner {
+    background:#3B244D;
+    }
+    .fs-partner .fs-bottom-triangle  polygon{
+    fill:#3B244D;
+    }
+    .fs-partners .fs-partner-container .fs-partner .fs-partner-donation-amount, .fs-partners .fs-partner-container .fs-partner .fs-partner-name {
+    color:#FFF;
+    }
+    

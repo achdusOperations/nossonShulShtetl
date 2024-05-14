@@ -137,15 +137,12 @@ color:#FFF;
 .fs-countdown {
     background:#40DFAF;
     }
-    body > div.fs-root > div > div.fs-campaign-info > div > div > div.col-md-6.fs-countdown.text-center.d-js-viewport-in > h3,.fs-footer .row>div:nth-of-type(1) h3, .fs-countdown .fs-countdown-widget .fs-countdown-unit .fs-countdown-description, .fs-countdown .fs-countdown-widget .fs-countdown-sep{
+    body > div.fs-root > div > div.fs-campaign-info > div > div > div.col-md-6.fs-countdown.text-center.d-js-viewport-in > h3,.fs-footer .row>div:nth-of-type(1) h3, .fs-countdown .fs-countdown-widget .fs-countdown-sep{
     color:#FFF;
     }
-    /*maximize in countdown*/
-    .fs-countdown h3 strong {
-        color:#3B244D
-    }
-    /*left until...*/
-    h3.fs-countdown-message {
+    /*text*/
+    
+    h3.fs-countdown-message,  .fs-countdown .fs-countdown-widget .fs-countdown-unit .fs-countdown-description {
         color: #3B244D!important;
     }
 

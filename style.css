@@ -28,23 +28,7 @@
     background:#F8A147;
     }
 
-    /*section next to countdown*/
-    /*.fs-donate {
-        background:#F8A147
-    }
     
-    body > div.fs-root > div > div.fs-campaign-info > div > div > div.col-md-6.fs-donate.fs-donatable.text-center.vertical-align.d-js-viewport-in > div.fs-left-border-triangle > svg > polygon{
-        fill:#F8A147
-    }
-    
-    div.fs-top-border-triangle > svg > polygon, div.fs-left-border-triangle > svg > polygon{
-        fill:#F8A147
-    }
-    
-    /*dollar sign*/
-    /*.fs-donate .fs-donate-amounts {
-        color:#951903
-    }
     /*matchers*/
 
     /*circle*/
@@ -165,6 +149,27 @@ color:#FFF;
         color: #3B244D!important;
     }
 
+/*section next to countdown*/
+    .fs-donate {
+        background:#F46D6a;
+    }
+    
+    body > div.fs-root > div > div.fs-campaign-info > div > div > div.col-md-6.fs-donate.fs-donatable.text-center.vertical-align.d-js-viewport-in > div.fs-left-border-triangle > svg > polygon{
+        fill:#F46D6a;
+    }
+    
+    div.fs-top-border-triangle > svg > polygon, div.fs-left-border-triangle > svg > polygon{
+        fill:#F46D6a
+    }
+    
+    /*dollar sign*/
+    .fs-donate .fs-donate-amounts {
+        color:#fff
+    } 
+    /*donate button*/
+    a.btn.fs-btn.js-action-open-donate{
+        background: #FFF;
+    }
 
     
     
@@ -196,16 +201,16 @@ color:#FFF;
     }
 
 
-    /*footer*/
+/*footer*/
    .fs-footer {
     background: #3B244D;
     border-top: 1px solid #3B244D;
-}
-.fs-footer .row>div:nth-of-type(1) h3, .fs-footer .row>div:nth-of-type(2) h3 , address {
+    }
+    .fs-footer .row>div:nth-of-type(1) h3, .fs-footer .row>div:nth-of-type(2) h3 , address {
     color:#FFF;
     }
 
-     /*donate page*/
+/*donate page*/
         /*titles*/
    .fs-full-donate-form .fs-donate-body .fs-donate-section h3{
     color:#3B244D;
@@ -225,8 +230,8 @@ color:#FFF;
     .fs-full-donate-form .fs-donate-body .fs-donate-section .fs-payment-method .radio-inline span {
         border:1px solid #3B244D;
     }
-    /*donor tag*/
-.fs-partners .fs-partner-container .fs-partner {
+/*donor tag*/
+    .fs-partners .fs-partner-container .fs-partner {
     background:#3B244D;
     }
     .fs-partner .fs-bottom-triangle  polygon{

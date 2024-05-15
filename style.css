@@ -241,4 +241,12 @@ color:#FFF;
     .fs-partners .fs-partner-container .fs-partner .fs-partner-donation-amount, .fs-partners .fs-partner-container .fs-partner .fs-partner-name {
     color:#FFF;
     }
+    a#showAllDonorsButton{
+        background:#3B244D !important;
+        color:#FFF !important;
+    }
+    a#showAllDonorsButton:hover{
+        background: #40DFAF !important;
+        color: #3B244D !important;
+    }
     

@@ -97,7 +97,7 @@
     background-color: #3B244D;
    }
    /*nossons shul*/
-   small.js-viewport-in.a-delay-100ms{
+   body > div.fs-root > div > div.jumbotron.fs-header > div > div > h1 > small{
     color:#3B244D;
    }
  

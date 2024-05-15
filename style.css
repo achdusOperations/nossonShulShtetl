@@ -103,7 +103,7 @@
 /*big titles*/
 .a-delay-200ms, body .fs-root h3 , .fs-partners h3, body > div.fs-root > div > div.container.fs-about-partners-container > div > div.col-md-8.fs-about.js-about.fs-about-main-body > div > h3{
     color:#40DFAF;
-        font-family: "Leckerli One", cursive;
+        font-family: "Leckerli One", cursive !important;
         font-weight: 400;
         font-style: normal;
 

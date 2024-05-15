@@ -2,6 +2,7 @@
 /* light green #40DFAF */
 
 @import url('https://fonts.googleapis.com/css2?family=Leckerli+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Leckerli+One&family=Yellowtail&display=swap');
 
 /*logo*/
 /*img.fs-logo{
@@ -113,6 +114,11 @@ body > div.fs-root > div > div.jumbotron.fs-header > div > div > h1 > span, .fs-
 /*small titles*/
 .fs-header .page-header h2 , .fs-about h4, .fs-header .page-header h1 small{
     color:#3B244D;
+        font-family: "Yellowtail", cursive !important;
+        font-weight: 400;
+        font-style: normal;
+      
+      
 }
 
 /*donate now and about campaign */

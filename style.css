@@ -112,7 +112,7 @@ body > div.fs-root > div > div.jumbotron.fs-header > div > div > h1 > span, .fs-
 }
 
 /*small titles*/
-.fs-header .page-header h2 , .fs-about h4, .fs-header .page-header h1 small{
+body > div.fs-root > div > div.jumbotron.fs-header > div > div > h2, body > div.fs-root > div > div.container.fs-about-partners-container > div > div.col-md-8.fs-about.js-about.fs-about-main-body > div > h4{
     color:#3B244D;
         font-family: "Yellowtail", cursive !important;
         font-weight: 400;

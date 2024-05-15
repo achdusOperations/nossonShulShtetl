@@ -231,6 +231,10 @@ color:#FFF;
     .fs-full-donate-form .fs-donate-body .fs-donate-section .fs-payment-method .radio-inline span {
         border:1px solid #3B244D;
     }
+    #fs-donate-form .fs-btn-donate, #fs-donate-form .fs-btn-donate:hover{
+        background:#3B244D !important;
+        color:#FFF !important;
+    }
 /*donor tag*/
     .fs-partners .fs-partner-container .fs-partner {
     background:#3B244D;

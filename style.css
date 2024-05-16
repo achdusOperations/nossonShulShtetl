@@ -193,7 +193,8 @@ color:#FFF;
    /*top line and background*/
    .fs-partners>div{
     border-top:6px solid #FFF8F8;
-    background:#FFF8F8
+    background:#FFF8F8;
+    border-radius:25px;
     }
     /*"our donors"*/
    .text-center h3, .fs-partners h3 span {

@@ -12,23 +12,23 @@ img.fs-logo{
     } 
     /*lines around logo and space*/
     .fs-logo-container .fs-bottom-triangle-border polygon {
-        fill:#F38F89;
+        fill:#3B244D;
     }
     .fs-header-top .fs-logo-container {
-    border: 4px solid #F38F89;
+    border: 4px solid #3B244D;
     border-top:0;
-    /*background:#F38F89;*/
+    background:#3B244D;
     }
     .fs-header-top {
-        border-bottom: 4px solid #F38F89;
-    /*background:#F38F89;*/
+        border-bottom: 4px solid #3B244D;
+    background:#3B244D;
     }
     
-    /*.fs-logo-container .fs-bottom-triangle  polygon{
-    fill:#F38F89;
-    }*/
-    /*.fs-header-top .fs-logo-container:after {
-    background:#F38F89;
+    .fs-logo-container .fs-bottom-triangle  polygon{
+    fill:#3B244D;
+    }
+    .fs-header-top .fs-logo-container:after {
+    background:#3B244D;
     }
 
     

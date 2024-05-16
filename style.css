@@ -227,14 +227,20 @@ color:#FFF;
     }
 
 /*donate page*/
+    /*header*/
+    .fs-full-donate-form .fs-donate-header{
+        background:#3B244D;
+        color:#FFF;
+    }
         /*titles*/
-   .fs-full-donate-form .fs-donate-body .fs-donate-section h3{
+        .title, .recurring-length-label, .fs-full-donate-form .fs-donate-body .fs-donate-section h3{
     color:#3B244D;
     }
     /*amount boxes*/
     .fs-full-donate-form .fs-donate-body .fs-donation-options .fs-donation-option span.fs-option-name>*{
         background-color: #40DFAF;
-        color:#3B244D
+        color:#3B244D;
+        border-radius:25px;
     }
     /*amount boxes when selected*/
     .fs-full-donate-form .fs-donate-body .fs-donation-options .fs-donation-option.fs-other label.selected, .fs-full-donate-form .fs-donate-body .fs-donation-options .fs-donation-option.selected .fs-option-name>div {

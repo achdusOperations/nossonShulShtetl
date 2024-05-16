@@ -24,10 +24,10 @@ img.fs-logo{
     background:#F38F89;
     }
     
-    .fs-logo-container .fs-bottom-triangle  polygon{
+    /*.fs-logo-container .fs-bottom-triangle  polygon{
     fill:#F38F89;
-    }
-    .fs-header-top .fs-logo-container:after, .fs-header-top .fs-logo-container:before {
+    }*/
+    .fs-header-top .fs-logo-container:after {
     background:#F38F89;
     }
 

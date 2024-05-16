@@ -255,6 +255,9 @@ color:#FFF;
         border:1px solid #3B244D;
         border-radius:25px;
     }
+    .fs-full-donate-form .fs-donate-body .fs-donate-section .fs-payment-method .radio-inline input:checked+span:before {
+        border-top:10px solid #3B244D;
+    }
     .fs-full-donate-form .fs-donate-body .fs-donate-section .fs-payment-method .radio-inline input:checked+span{
         background:#3B244D !important;
         color:#FFF !important;

@@ -7,7 +7,7 @@
 /*logo*/
 img.fs-logo{
     content: 
-    url("https://nossonsshul.com/media/images/1277/farl12775861.png");
+    url("https://nossonsshul.com/media/images/1277/farl12775861.png") !important;
     background-size:100% 100%;
     } 
     /*lines around logo and space*/

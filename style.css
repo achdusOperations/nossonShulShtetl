@@ -126,7 +126,7 @@ body > div.fs-root > div > div.jumbotron.fs-header > div > div > h2, body > div.
     background:#40DFAF;
   border-radius: 25px !important;
   color:#3B244D;
-  font-weight: bold;
+  font-weight: bold !important;
   }
   .donate-button .donate-button-text:hover{
     background: #3B244D;

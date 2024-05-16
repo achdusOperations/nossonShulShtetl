@@ -233,7 +233,7 @@ color:#FFF;
         color:#FFF;
     }
         /*titles*/
-        .title, .recurring-length-label, .fs-full-donate-form .fs-donate-body .fs-donate-section h3{
+        .title, .recurring-length-label, .fs-full-donate-form .fs-donate-body .fs-donate-section h3, .content {
     color:#3B244D;
     }
     /*amount boxes*/

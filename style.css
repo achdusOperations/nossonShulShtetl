@@ -231,11 +231,14 @@ color:#FFF;
     /*header*/
     .fs-full-donate-form .fs-donate-header{
         background:#3B244D;
+        
+    }
+    .fs-full-donate-form .fs-donate-header .fs-text {
         color:#FFF;
     }
         /*titles*/
-        .title, .recurring-length-label, .fs-full-donate-form .fs-donate-body .fs-donate-section h3, .content {
-    color:#3B244D;
+        .title, .recurring-length-label, .fs-full-donate-form .fs-donate-body .fs-donate-section h3, .content  {
+    color:#3B244D !important;
     }
     /*amount boxes*/
     .fs-full-donate-form .fs-donate-body .fs-donation-options .fs-donation-option span.fs-option-name>*{

@@ -150,6 +150,7 @@ color:#FFF;
 /*countdown*/
 .fs-countdown {
     background:#40DFAF;
+    border-radius:25px;
     }
     h3.fs-countdown-message , .fs-countdown h3 strong , body > div.fs-root > div > div.fs-campaign-info > div > div > div.col-md-6.fs-countdown.text-center.d-js-viewport-in > h3,.fs-footer .row>div:nth-of-type(1) h3, .fs-countdown .fs-countdown-widget .fs-countdown-sep{
     color:#FFF;

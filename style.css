@@ -81,7 +81,7 @@ img.fs-logo{
    @media screen and (max-width: 700px) {
    .fs-header:before {
     background-image: 
-   url("https://nossonsshul.com/media/images/1277/yhBv12774634.png");
+   url("https://nossonsshul.com/media/images/1278/rXQv12780247.png");
    background-size:100% 100%;
    }
    }
@@ -193,8 +193,8 @@ color:#FFF;
     /*donor listing*/
    /*top line and background*/
    .fs-partners>div{
-    border-top:6px solid #FFF8F8;
-    background:#FFF8F8;
+    border-top:6px solid #F38F89;
+    background:#F38F89;
     border-radius:25px;
     }
     /*"our donors"*/

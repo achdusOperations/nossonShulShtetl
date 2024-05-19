@@ -32,7 +32,7 @@ img.fs-logo{
     .fs-header-top .fs-logo-container:after, .fs-header-top .fs-logo-container:before {
     background:#3B244D;
     }
-    .fs-header-top .fs-logo-container .fs-bottom-triangle, .fs-header-top .fs-logo-container .fs-bottom-triangle{
+    .fs-header-top .fs-logo-container .fs-bottom-triangle, .fs-header-top .fs-logo-container .fs-bottom-triangle, .fs-header-top .fs-logo-container .fs-bottom-triangle-border {
         display:none;
     }
 

@@ -19,6 +19,7 @@ img.fs-logo{
     border-top:0;
     background:#3B244D;
     border-radius:25px;
+    padding-bottom:10px;
     }
     .fs-header-top {
         border-bottom: 4px solid #3B244D;
@@ -31,7 +32,7 @@ img.fs-logo{
     .fs-header-top .fs-logo-container:after, .fs-header-top .fs-logo-container:before {
     background:#3B244D;
     }
-    .fs-header-top .fs-logo-container .fs-bottom-triangle{
+    .fs-header-top .fs-logo-container .fs-bottom-triangle, .fs-header-top .fs-logo-container .fs-bottom-triangle{
         display:none;
     }
 

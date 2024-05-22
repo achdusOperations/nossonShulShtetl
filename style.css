@@ -320,7 +320,7 @@ color:#FFF;
         color:#40DFAF;
     }
     /*button in team*/
-    .btns-flex .view-btn, .btns-flex .donate-btns:hover{
+    .btns-flex .view-btn{
         background:#FFF;
         color:#3B244D;
         border-color: #3B244D;
@@ -333,6 +333,11 @@ color:#FFF;
         border-color: #3B244D;
         border-radius: 25px;
     }
+     .btns-flex .donate-btns:hover{
+        background:#FFF !important;
+        color:#3B244D !important;
+        border-color: #3B244D !important;
+     }
     /*progression bar*/
     .progress-flex .progress .progress-bar{
         background:#3B244D;

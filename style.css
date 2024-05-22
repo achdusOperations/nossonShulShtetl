@@ -313,6 +313,6 @@ color:#FFF;
     .donar-section .nav-tabs .nav-item.active .nav-link, .donar-section .nav-tabs .nav-item:hover .nav-link{
         border-bottom: 3px solid #3B244D;
     }
-    section .nav-tabs .nav-link {
+    .donar-section .nav-tabs .nav-link {
         color:#FFF;
     }

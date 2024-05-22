@@ -316,3 +316,17 @@ color:#FFF;
     .donar-section .nav-tabs .nav-link {
         color:#FFF;
     }
+    /*button in team*/
+    .btns-flex .view-btn, .btns-flex .donate-btns:hover{
+        background:#FFF;
+        color:#3B244D;
+        border-color: #FFF;
+        border-radius: 25px;
+        
+    }
+    .btns-flex .view-btn:hover, .btns-flex .donate-btns{
+        background:#3B244D;
+        color:#FFF;
+        border-color: #3B244D;
+        border-radius: 25px;
+    }

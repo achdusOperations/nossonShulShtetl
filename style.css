@@ -316,6 +316,9 @@ color:#FFF;
     .donar-section .nav-tabs .nav-link {
         color:#FFF;
     }
+    #donors > div > div.js-donors-list > div > div:nth-child(1) > div > div > div.left_userd > div > span{
+        color:#40DFAF;
+    }
     /*button in team*/
     .btns-flex .view-btn, .btns-flex .donate-btns:hover{
         background:#FFF;

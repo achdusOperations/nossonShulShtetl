@@ -292,4 +292,9 @@ color:#FFF;
     .fs-partners .fs-partner-container .fs-partner .fs-partner-dedication{
         background: #40DFAF;
     }
+    .fs-partners .fs-partner-container:hover .fs-partner .fs-partner-dedication, .fs-partners .fs-partner-container .fs-partner .fs-partner-dedication {
+        max-height: 200px;
+        padding: 10px;
+        border-bottom: 2px solid #023768
+    }
     

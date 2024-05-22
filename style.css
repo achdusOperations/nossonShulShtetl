@@ -319,7 +319,7 @@ color:#FFF;
     .donar-section .nav-tabs .nav-link {
         color:#FFF;
     }
-    #donors > div > div.js-donors-list > div > div:nth-child(1) > div > div > div.left_userd > div > span{
+    #donors > div > div.js-donors-list > div > div:nth-child(1) > div > div > div.left_userd > div > span, .donate-members .donates_user .team-up{
         color:#40DFAF;
     }
     /*button in team*/
@@ -344,4 +344,10 @@ color:#FFF;
     /*progression bar*/
     .progress-flex .progress .progress-bar{
         background:#3B244D;
+    }
+    /*donate in team*/
+    .donate-now, donate-now:hover, .team-donate-btn, .team-donate-btn:hover{
+        border-radius: 25px;
+        background: #3B244D;
+        color: #FFF;
     }

@@ -295,6 +295,21 @@ color:#FFF;
     .fs-partners .fs-partner-container:hover .fs-partner .fs-partner-dedication, .fs-partners .fs-partner-container .fs-partner .fs-partner-dedication {
         max-height: 200px;
         padding: 10px;
-        border-bottom: 2px solid #023768
+        border-bottom: 2px solid #3B244D
     }
-    
+    /*team section*/
+    .donar-section{
+       background: #f5cbc9;
+    }
+    .donate-members .donates_user .donate-A{
+        background:#3B244D
+    }
+    .donate-members .donates_user .donate-A .donate-triangle{
+        border-right: 26px solid #3B244D;
+    }
+    .donate-members .donates_user .left_userd .user-name, .donar-section .nav-tabs .nav-item.active .nav-link{
+        color:#3B244D;
+    }
+    .donar-section .nav-tabs .nav-item.active .nav-link, .donar-section .nav-tabs .nav-item:hover .nav-link{
+        border-bottom: 3px solid #3B244D;
+    }

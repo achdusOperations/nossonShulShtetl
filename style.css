@@ -307,7 +307,7 @@ color:#FFF;
     .donate-members .donates_user .donate-A .donate-triangle{
         border-right: 26px solid #3B244D;
     }
-    .donate-members .donates_user .left_userd .user-name, .donar-section .nav-tabs .nav-item.active .nav-link, .team-members .team-users .donor-team span{
+    .progress-flex .S-label span,.donate-members .donates_user .left_userd .user-name, .donar-section .nav-tabs .nav-item.active .nav-link, .team-members .team-users .donor-team span{
         color:#3B244D;
     }
     .donar-section .nav-tabs .nav-item.active .nav-link, .donar-section .nav-tabs .nav-item:hover .nav-link{

@@ -107,7 +107,7 @@ img.fs-logo{
    }
  
 /*big titles*/
-#Description > div > div > h3, body > div.fs-root > div > div.jumbotron.fs-header > div > div > h1 > span, .fs-partners h3, body > div.fs-root > div > div.container.fs-about-partners-container > div > div.col-md-8.fs-about.js-about.fs-about-main-body > div > h3 {
+#about_modal > div > div > div.modal-body > div > div > h3, #Description > div > div > h3, body > div.fs-root > div > div.jumbotron.fs-header > div > div > h1 > span, .fs-partners h3, body > div.fs-root > div > div.container.fs-about-partners-container > div > div.col-md-8.fs-about.js-about.fs-about-main-body > div > h3 {
     color:#40DFAF;
         font-family: "Leckerli One", cursive !important;
         font-weight: 400;
@@ -117,7 +117,7 @@ img.fs-logo{
 }
 
 /*small titles*/
-#Description > div > div > h4, body > div.fs-root > div > div.jumbotron.fs-header > div > div > h2, body > div.fs-root > div > div.container.fs-about-partners-container > div > div.col-md-8.fs-about.js-about.fs-about-main-body > div > h4{
+#about_modal > div > div > div.modal-body > div > div > h4,#Description > div > div > h4, body > div.fs-root > div > div.jumbotron.fs-header > div > div > h2, body > div.fs-root > div > div.container.fs-about-partners-container > div > div.col-md-8.fs-about.js-about.fs-about-main-body > div > h4{
     color:#3B244D;
         font-family: "Yellowtail", cursive !important;
         font-weight: 400;
@@ -307,7 +307,7 @@ color:#FFF;
     .donate-members .donates_user .donate-A .donate-triangle{
         border-right: 26px solid #3B244D;
     }
-    .donate-members .donates_user .left_userd .user-name, .donar-section .nav-tabs .nav-item.active .nav-link{
+    .donate-members .donates_user .left_userd .user-name, .donar-section .nav-tabs .nav-item.active .nav-link, .team-members .team-users .donor-team span{
         color:#3B244D;
     }
     .donar-section .nav-tabs .nav-item.active .nav-link, .donar-section .nav-tabs .nav-item:hover .nav-link{
@@ -332,4 +332,8 @@ color:#FFF;
         color:#FFF;
         border-color: #3B244D;
         border-radius: 25px;
+    }
+    /*progression bar*/
+    .progress-flex .progress .progress-bar{
+        background:#3B244D;
     }
